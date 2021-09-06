@@ -13,6 +13,7 @@ public class CalculatorSwitch {
         return true;
     }
 
+    
     public static void main(String[] args) {
         List<Character> operations = Arrays.asList('+', '-', '/', 'x', '%');
         Scanner sc = new Scanner(System.in);
